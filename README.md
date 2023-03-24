@@ -1,4 +1,4 @@
-# Draw-It-or-Lose-It-REST_API
+# GameAuth: Platform Expansion Prototype
 
 Hello there! I'm excited to share with you my experience working on the Draw It or Lose It game application project for The Gaming Room. As part of this project, I was tasked with creating a simulated environment that demonstrates prototypes to present multiple platform options to the client. The client already had a game application for Android systems, but they wanted to expand it to other operating platforms.
 
