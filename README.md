@@ -10,3 +10,4 @@ To complete the project successfully, I reviewed the Dropwizard BasicAuth Securi
 
 After completing the necessary preparations, I started working on the user interface, the client, authentication and authorization, and user protection and security. I made sure to complete all assigned tasks outlined in the various Java files based on the FIXME comments. I also tested the code by running the application in Eclipse and adding the values “server config.yml” as Program Arguments on the Arguments tab of the Run Configuration.
 
+test your code by running the application in Eclipse and visiting the URL http://localhost:8080/gameusers to see the list of game players returned as a JSON string.
